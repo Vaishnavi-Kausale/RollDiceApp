@@ -18,7 +18,6 @@ When you tap the button, it rolls the dice and shows a new random dice face (1-6
 ## 📸 Screenshots
 
 <img src="https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053698.jpg" width="300"/>
-<br/>
 <img src="https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053699.jpg" width="300"/>
 
 
