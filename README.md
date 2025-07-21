@@ -13,3 +13,12 @@ When you tap the button, it rolls the dice and shows a new random dice face (1-6
 ## 🛠️ Tech Stack
 
 📱 Flutter (Dart)
+
+## 📸 Screenshots
+
+![Dice UI 1](https://github.com/yourusername/yourrepo/assets/xyz/1000053698.jpg)
+![Dice UI 2](https://github.com/yourusername/yourrepo/assets/xyz/1000053699.jpg)
+
+## 🎬 Demo Video
+
+https://github.com/yourusername/yourrepo/assets/xyz/1000053685.mp4
