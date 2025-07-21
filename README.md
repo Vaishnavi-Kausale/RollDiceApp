@@ -16,11 +16,13 @@ When you tap the button, it rolls the dice and shows a new random dice face (1-6
 
 ## 📸 Screenshots
 
-![Dice UI 1](https://github.com/yourusername/yourrepo/assets/xyz/1000053698.jpg)
-![Dice UI 2](https://github.com/yourusername/yourrepo/assets/xyz/1000053699.jpg)
+![Dice UI 1](https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053698.jpg)
+![Dice UI 2](https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053699.jpg)
+
+---
 
 ## 🎬 Demo Video
 
-https://github.com/Vaishnavi-Kausale/RollDiceApp/assets/12345678/1000053698.jpg
-https://github.com/Vaishnavi-Kausale/RollDiceApp.git/assets/12345678/1000053698.jpg
+🎥 [Watch Demo Video](https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053685.mp4)
+
 
