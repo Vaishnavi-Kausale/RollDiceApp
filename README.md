@@ -21,4 +21,5 @@ When you tap the button, it rolls the dice and shows a new random dice face (1-6
 
 ## 🎬 Demo Video
 
-https://github.com/yourusername/yourrepo/assets/xyz/1000053685.mp4
+https://github.com/Vaishnavi-Kausale/RollDiceApp/assets/12345678/1000053698.jpg
+
