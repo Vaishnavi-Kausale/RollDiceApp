@@ -14,10 +14,13 @@ When you tap the button, it rolls the dice and shows a new random dice face (1-6
 
 📱 Flutter (Dart)
 
+
 ## 📸 Screenshots
 
-![Dice UI 1](https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053698.jpg)
-![Dice UI 2](https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053699.jpg)
+<img src="https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053698.jpg" width="300"/>
+<br/>
+<img src="https://github.com/Vaishnavi-Kausale/RollDiceApp/raw/main/1000053699.jpg" width="300"/>
+
 
 ---
 
